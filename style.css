@@ -85,8 +85,8 @@ body {
 }
 
 .legend__face {
-  width: clamp(48px, 9vw, 96px);
-  height: clamp(48px, 9vw, 96px);
+  width: 96px;
+  height: 96px;
   display: block;
 }
 
