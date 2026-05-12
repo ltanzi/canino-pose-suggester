@@ -1,9 +1,3 @@
-# Akzidenz-Grotesk is a Berthold commercial typeface — never commit the font files.
-fonts/*.otf
-fonts/*.ttf
-fonts/*.woff
-fonts/*.woff2
-
 # Large originals not used by the live site (the optimised .jpg is the one that's served).
 references/empty_elevator.png
 references/empty_elevator_guidelines.png
